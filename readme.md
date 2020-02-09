@@ -13,7 +13,7 @@ npm run build
 
 webpack plugins used in this sample project :
 
-***html-webpack-plugin
-***terser-webpack-plugin 
-***mini-css-extract-plugin 
-***optimize-css-assets-webpack-plugin
+- html-webpack-plugin
+- terser-webpack-plugin 
+- mini-css-extract-plugin 
+- optimize-css-assets-webpack-plugin
