@@ -1,6 +1,6 @@
 ### Simple webpack 4 Example
 
-Simple webpack 4 sample playground with minification and uglify the source code
+Simple webpack 4 sample playground with minification and uglify of the source code
 
 
 ```
