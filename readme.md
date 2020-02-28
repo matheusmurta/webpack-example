@@ -17,3 +17,4 @@ webpack plugins used in this sample project :
 - terser-webpack-plugin 
 - mini-css-extract-plugin 
 - optimize-css-assets-webpack-plugin
+https://www.webdevdrops.com/webpack-sem-medo-introducao-af889eb659e7
